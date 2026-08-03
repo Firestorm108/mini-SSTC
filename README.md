@@ -1,7 +1,7 @@
 # mini-SSTC
 A miniature CW SSTC driver! Fully through hole components and can be made for extremely cheap.
 
-This is a similar circuit to the infamous IGBT slayer exciter. It is however much more powerful and able to be run off mains voltage or 120VAC.
+This is a similar circuit to the infamous BJT slayer exciter. It is however much more powerful and able to be run off mains voltage or 120VAC.
 
 <img width="795" height="583" alt="Screenshot 2026-08-02 at 11 58 38 PM" src="https://github.com/user-attachments/assets/55b10d57-5bd3-491b-ac67-be395398a720" />
 <img width="559" height="931" alt="Screenshot 2026-08-02 at 11 59 15 PM" src="https://github.com/user-attachments/assets/eb5699dd-0ad1-4aaa-ae1e-24b071110302" />
